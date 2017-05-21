@@ -1,4 +1,4 @@
-#Summer Lecture List#
+# Summer Lecture List
 
 * Optimization
 * Back Propogation Algorithm
